@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/primeiro-programa.iml" filepath="$PROJECT_DIR$/primeiro-programa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bytenbank-herdado.iml" filepath="$PROJECT_DIR$/bytenbank-herdado.iml" />
     </modules>
   </component>
 </project>
