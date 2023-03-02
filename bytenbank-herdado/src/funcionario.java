@@ -2,10 +2,12 @@ public class funcionario {
 
     private String nome;
     private String Cpf;
+    //protected deixa o este atributo publico pra as os "filhos" desta classe mas somente para eles.
     private double salario;
 
-    public double getbonificação() {
-        return this.salario * 0.1;
+    public double getbonificacao() {
+
+        return this.salario * 0.05;
     }
 
     public double getSalario() {

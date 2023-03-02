@@ -15,5 +15,9 @@ public class testeGerente {
 
         System.out.println(autenticou);
 
+        System.out.println(kaua.getbonificacao());
+
+
+
     }
 }
