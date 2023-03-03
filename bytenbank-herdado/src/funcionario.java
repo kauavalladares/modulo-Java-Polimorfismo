@@ -1,4 +1,8 @@
-public class funcionario {
+
+//abstract e como mostramos que funcionario não e uma classe concreta,
+// pois funcionario e uma classe conceito não concreta como por exemplo a classe gerente.
+public abstract class funcionario {
+
 
     private String nome;
     private String Cpf;

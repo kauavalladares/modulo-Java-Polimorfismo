@@ -5,8 +5,6 @@ public class TesteRerencias {
         kaua1.setNome("kaua");
         kaua1.setSalario(5000.0);
 
-        funcionario kaua = new funcionario();
-        kaua.setSalario(2000.0);
 
         EditorVideo ev = new EditorVideo();
         ev.setSalario(2500.0);
@@ -16,7 +14,6 @@ public class TesteRerencias {
 
         ControleBonificacao controle = new ControleBonificacao();
         controle.registra(kaua1);
-        controle.registra(kaua);
         controle.registra(ev);
         controle.registra(d);
 
